@@ -1,0 +1,11 @@
+{
+  "name": "ExamplePlugin",
+  "version": "1.0.0",
+  "description": "Example Description",
+  "main": "com.example.exampleplugin.ExamplePlugin",
+  "author": "Example Author",
+  "luminary": {
+    "targetsJava": ">=17",
+    "targetsLuminaryAPI": ">=1"
+  }
+}
